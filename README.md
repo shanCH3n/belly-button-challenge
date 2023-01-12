@@ -1,4 +1,4 @@
-# belly-button-challenge -- Examining the biodiversity of the humble human navel --
+# Examining the biodiversity of the humble human navel
 
 For this assignment, an interactive dashboard was built to explore the Belly Button Biodiversity dataset (http://robdunnlab.com/projects/belly-button-biodiversity/) which catalogoues the microbes that colonise human navels. 
 
