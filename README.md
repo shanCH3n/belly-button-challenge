@@ -10,6 +10,7 @@ It revealed that a small handful of microbial species (also called operational t
 ## Introducing the dashboard's functions
 
 ![](Resources/dashboard_overview.png)
+
 Link to Dashboard: https://shanch3n.github.io/belly-button-challenge/
 
 ### Primary visualisations
