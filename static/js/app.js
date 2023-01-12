@@ -108,7 +108,7 @@ function gaugeChart(sample) {
             value: result.wfreq,
             title: { text: "<b>Belly Button Washing Frequency</b> <br>Scrubs per Week</br>", font: { size: 16 } },
             gauge: {
-                axis: { range: [null, 9], tickwidth: 1, tickcolor: "black"},
+                axis: { range: [null, 9], tickwidth: 0.5, tickcolor: "black"},
                 bgcolor: "white",
                 steps: [
                     { range: [0, 1], color: "rgb(248, 243, 236)" },
