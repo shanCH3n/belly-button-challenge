@@ -9,9 +9,13 @@ It revealed that a small handful of microbial species (also called operational t
 
 ## Introducing the dashboard's functions
 
+![](Resources/dashboard_overview.png)
+
 Link to Dashboard: https://shanch3n.github.io/belly-button-challenge/
 
 ### Begin by selecting a subject's ID
+
+![](Resources/selectsubject.png)
 
 A subject's can be selected from a dropdown menu via their ID No. 
 
@@ -26,7 +30,11 @@ The Plotly D3 Javascript library was used to create 3 separate visualisations fo
 
 Both the bar and bubble charts provide further information about each microbial species present in the respective sample, such as their scientific name. These can be accessed by hovering the bar or bubble associated with a particular OTU.
 
-The charts update any time a new subject's sample is selected.
+![](Resources/hover_hbar.png)
+
+![](Resources/hover_bubble.png)
+
+All 3 charts update any time a new subject's sample is selected.
 
 ## Resources
 - Javascript
