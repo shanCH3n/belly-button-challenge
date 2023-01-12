@@ -28,6 +28,8 @@ A subject's can be selected from a dropdown menu via their ID No.
 
 Their demographical information, such as Ethnicity, Gender, Age, Location, Body Type (bbtype), and Frequency of Washes (wfreq), is presented in a panel below the dropdown.
 
+All 3 charts update any time a new subject's sample is selected.
+
 ### Hover for more information about each microbial species (OTU)
 
 Both the bar and bubble charts provide further information about each microbial species present in the respective sample, such as their scientific name. These can be accessed by hovering the bar or bubble associated with a particular OTU.
@@ -36,7 +38,7 @@ Both the bar and bubble charts provide further information about each microbial 
 
 ![](Resources/hover_bubble.png)
 
-All 3 charts update any time a new subject's sample is selected.
+
 
 ## Resources
 - Javascript
