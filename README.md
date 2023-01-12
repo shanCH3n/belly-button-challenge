@@ -22,7 +22,7 @@ Their demographical information, such as Ethnicity, Gender, Age, Location, Body 
 The Plotly D3 Javascript library was used to create 3 separate visualisations for each participant:
 1. A horizonal bar chart dislaying the ten most prevalent OTUs in a sample
 2. A bubble chart of all the OTUs in the sample
-3. A gauge cahrts of a subject's wash frequency
+3. A gauge charts of a subject's wash frequency
 
 Both the bar and bubble charts provide further information about each microbial species present in the respective sample, such as their scientific name. These can be accessed by hovering the bar or bubble associated with a particular OTU.
 
