@@ -13,7 +13,7 @@ Link to Dashboard: https://shanch3n.github.io/belly-button-challenge/
 
 ### Begin by selecting a subject's ID
 
-A subject can be selected from a dropdown menu via their ID No. 
+A subject's can be selected from a dropdown menu via their ID No. 
 
 Their demographical information, such as Ethnicity, Gender, Age, Location, Body Type (bbtype), and Frequency of Washes (wfreq), is presented in a panel below the dropdown.
 
